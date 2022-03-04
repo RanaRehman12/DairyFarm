@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133203079070",
+    "project_id": "fir-app-ed82a",
+    "storage_bucket": "fir-app-ed82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133203079070:android:b7e85ce1f1220f0394f08f",
+        "android_client_info": {
+          "package_name": "com.example.dairy_farmproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133203079070-ee9a26n37o2ta95v380a5pnicg6ovcg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCeqcDED_jBeDgCGdbQNxs7T3uiNm6D6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133203079070-ee9a26n37o2ta95v380a5pnicg6ovcg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
